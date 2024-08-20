@@ -1,8 +1,4 @@
-<h1 align="center"> Discover Project - DevLinks </h1>
-
-<p align="center">
-  Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,14 +25,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+## 🔥 Algumas features neste projeto
+
+- Layout simples e moderno criado com CSS básico
+- Estrutura criada com código HTML semântico
+- Troca de temas com código javascript básico
+
+## ✨ Neste projeto você pode ver
+
+- Listagem de links personalizados que quando clicado direcionam o usuário a página selecionada
+- Botões para direcionar o usuário para as redes sociais selecionadas
+- Botão para trocar o tema padrão da página
+
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+- O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+## ✅ Esse projeto foi criado ao longo do curso básico Discover da plataforma Rocketseat
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
